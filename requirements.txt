@@ -1,0 +1,2 @@
+# coil_design.py uses the standard library only
+pytest>=7
